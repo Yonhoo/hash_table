@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cookies/hash_table/hash_convert.h
+iostream
+-
+string
+-
+
+/home/cookies/hash_table/hash_table_iterator.h
+vector
+-
+hash_convert.h
+/home/cookies/hash_table/hash_convert.h
+algorithm
+-
+
+/home/cookies/hash_table/hashtable.cpp
+hashtable.h
+/home/cookies/hash_table/hashtable.h
+
+/home/cookies/hash_table/hashtable.h
+hash_table_iterator.h
+/home/cookies/hash_table/hash_table_iterator.h
+vector
+-
+utility
+-
+typeinfo
+-
+

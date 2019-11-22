@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cookies/hash_table",
+  "command": "/usr/bin/c++   -I/home/cookies/hash_table/. -I/home/cookies/hash_table/DIR_INC_SRCS  -std=c++11  -Wall -Ofast   -o CMakeFiles/hashtable.dir/hashtable.cpp.o -c /home/cookies/hash_table/hashtable.cpp",
+  "file": "/home/cookies/hash_table/hashtable.cpp"
+}
+]

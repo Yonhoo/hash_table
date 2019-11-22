@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -Wall -Ofast  -rdynamic CMakeFiles/hashtable.dir/hashtable.cpp.o  -o hashtable 
